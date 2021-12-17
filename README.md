@@ -1,2 +1,2 @@
 # DOM_Exercises
-Some practical examples of working DOM with Javascript
+Some practical examples of working on DOM with Javascript
